@@ -1,0 +1,71 @@
+html {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    }
+    
+    * {
+    box-sizing: inherit;
+    }
+    *:before, *:after {
+    box-sizing: inherit;
+    }
+    
+    #background{
+        height: 100%;
+        width: 100%;
+        background: #f3f3f3;
+        z-index: 999;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+      align-items: center;
+      background: #00e1ff;
+      font-family: "Roboto", Arial;
+      }
+    
+    #background .dribbble {
+    position: fixed;
+    display: block;
+    right: 24px;
+    bottom: 24px;
+    }
+    #background .dribbble img {
+    display: block;
+    width: 76px;
+    }
+    .center {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .loader {
+        color: #fff;
+        font-family: Consolas, Menlo, Monaco, monospace;
+        font-weight: bold;
+        font-size: 20vh;
+        opacity: 0.8;
+      }
+      .loader span {
+        display: inline-block;
+        -webkit-animation: pulse 0.4s alternate infinite ease-in-out;
+                animation: pulse 0.4s alternate infinite ease-in-out;
+      }
+      .loader span:nth-child(odd) {
+        -webkit-animation-delay: 0.4s;
+                animation-delay: 0.4s;
+      }
+      @-webkit-keyframes pulse {
+        to {
+          transform: scale(0.8);
+          opacity: 0.5;
+        }
+      }
+      @keyframes pulse {
+        to {
+          transform: scale(0.8);
+          opacity: 0.5;
+        }
+      }

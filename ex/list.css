@@ -1,0 +1,106 @@
+.list {
+	font-family: 'Montserrat', sans-serif;
+	min-height: 100vh;
+	color: #555;
+}
+.credit{
+	text-align: center;
+}
+.credit a{
+	color: rgb(0, 238, 255);
+}
+.credit a:hover{
+	margin-bottom: 30px;
+	color: #00ccff;
+    text-decoration: none;
+    font-weight: 600;
+	margin-top: 50px;
+	text-align: center;
+
+ }
+h2{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 30px;
+}
+
+.products{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+	grid-gap: 50px;
+	margin: 50px auto;
+	max-width: 1240px;
+	padding-right: 5px;
+    
+}
+
+.product{
+	padding: 10px;
+	box-shadow: 0 5px 5px rgba(0, 232, 248, 0.322);
+}
+
+.product img{
+	width: 100%;
+	display: block;
+}
+
+.product .title{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.product .description{
+	padding: 0 20px 20px 20px;	
+	line-height: 22px;
+}
+
+.product .price{
+	text-align: center;
+	font-weight: 600;
+	font-size: 28px;
+	color: #9b0b03;
+	padding-top: 30px;
+	font-family: sans-serif;
+	text-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+	transform: rotate(-45deg);
+}
+
+.product .download{
+	text-align: center;
+	padding: 10px 0;
+	margin-top: 40px;
+	background-color: #00e1ff;
+	color: white;
+	font-size: 18px;
+	cursor: pointer;
+    border-radius: 10px;
+}
+
+.product .live {
+	text-align: center;
+	padding: 10px 0;
+	margin-top: 10px;
+	background-color: #14e701;
+	color: white;
+	font-size: 18px;
+	cursor: pointer;
+    border-radius: 10px;
+}
+.product .cart i{
+	padding-left: 10px;
+}
+
+.view-more{
+	margin: 0 auto;
+	max-width: 1240px;
+	padding: 20px;
+	text-align: center;
+}
+
+.view-more button{
+	padding: 10px 25px;
+
+}
