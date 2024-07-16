@@ -1,0 +1,93 @@
+[
+	{
+		"image": "./data0/greenscape/1x1.jpg",
+		"title": " <span style='color:#14e701;'>Greenscape</span> – Lawn & Landscaping Website template",
+		"description": "<span style='color:#ffd000;'><b>License:</b></span> Creative Commons 3.0 –<span style='color:#14e701;'> Free </span>to use for personal and commercial use",
+		"author":"Free html Templates",
+		"authorlink":"https://html.design/",
+		"download": "./data0/greenscape/download/",
+		"live": "./data0/greenscape/live/"
+
+	},
+	{
+		"image": "./data0/scol/1x1.jpg",
+		"title": "<span style='color:#14e701;'>Schol</span>– Presentation Powerpoint Website template",
+		"description": "<span style='color:#ffd000;'><b>License:</b></span> Creative Commons 3.0 –<span style='color:#14e701;'> Free </span>to use for personal and commercial use",
+		"author":"Free html Templates",
+		"authorlink":"https://html.design/",
+		"download": "./data0/scol/download/",
+		"live": "./data0/scol/live/"
+	},
+	{
+		"image": "./data0/rea/1x1.jpg",
+		"title": "<span style='color:#14e701;'>Rea</span> – Giftshop Website template",
+		"description": "<span style='color:#ffd000;'><b>License:</b></span> Creative Commons 3.0 –<span style='color:#14e701;'> Free </span>to use for personal and commercial use",
+		"author":"Free html Templates",
+		"authorlink":"https://html.design/",
+		"download": "./data0/rea/download/",
+		"live": "./data0/rea/live/"
+	},
+	{
+		"image": "./data0/tnio/1x1.jpg",
+		"title": "<span style='color:#14e701;'>Tnio</span> – Service Website HTML Template",
+		"description": "<span style='color:#ffd000;'><b>License:</b></span> Creative Commons 3.0 –<span style='color:#14e701;'> Free </span>to use for personal and commercial use",
+		"author":"Free html Templates",
+		"authorlink":"https://html.design/",
+		"download": "./data0/tnio/download/",
+		"live": "./data0/tnio/live/"
+	},
+	{
+		"image": "./data0/farmfund/1x1.jpg",
+		"title": "<span style='color:#14e701;'>Farmfund</span> – Retailers Website Template",
+		"description": "<span style='color:#ffd000;'><b>License:</b></span> Creative Commons 3.0 –<span style='color:#14e701;'> Free </span>to use for personal and commercial use",
+		"author":"Free html Templates",
+		"authorlink":"https://html.design/",
+		"download": "./data0/farmfund/download/",
+		"live": "./data0/farmfund/live/"
+	},
+	{
+		"image": "./data0/blogr/1x1.jpg",
+		"title": "<span style='color:#14e701;'>Blogr</span> – Blog Website Template",
+		"description": "<span style='color:#ffd000;'><b>License:</b></span> Creative Commons 3.0 –<span style='color:#14e701;'> Free </span>to use for personal and commercial use.",
+		"author":"Free html Templates",
+		"authorlink":"https://html.design/",
+		"download": "./data0/blogr/download/",
+		"live": "./data0/blogr/live/"
+	},
+	{
+		"image": "./data0/highpro/1x1.jpg",
+		"title": "<span style='color:#14e701;'>Highpro</span> – PowerPoint HTML Template",
+		"description": "<span style='color:#ffd000;'><b>License:</b></span> Creative Commons 3.0 –<span style='color:#14e701;'> Free </span>to use for personal and commercial use.",
+		"author":"Free html Templates",
+		"author-link":"https://html.design/",
+		"download": "./data0/highpro/download/",
+		"live": "./data0/highpro/live/"
+	},
+	{
+		"image": "./data0/ulio/1x1.jpg",
+		"title": "<span style='color:#14e701;'>Ulio</span> – Email & Newsletter HTML Template",
+		"description": "<span style='color:#ffd000;'><b>License:</b></span> Creative Commons 3.0 –<span style='color:#14e701;'> Free </span>to use for personal and commercial use.",
+		"author":"Free html Templates",
+		"authorlink":"https://html.design/",
+		"download": "./data0/ulio/download/",
+		"live": "./data0/ulio/live/"
+	},
+	{
+		"image": "./data0/peart/1x1.jpg",
+		"title": "<span style='color:#14e701;'>Peart</span> – Painting HTML Template",
+		"description": "<span style='color:#ffd000;'><b>License:</b></span> Creative Commons 3.0 –<span style='color:#14e701;'> Free </span>to use for personal and commercial use.",
+		"author":"Free html Templates",
+		"authorlink":"https://html.design/",
+		"download": "./data0/peart/download/",
+		"live": "./data0/peart/live/"
+	},
+	{
+		"image": "./data0/ziotech/1x1.jpg",
+		"title": "<span style='color:#14e701;'>Ziotech</span> – Business Corporate Solution HTML Template",
+		"description": "<span style='color:#ffd000;'><b>License:</b></span> Creative Commons 3.0 –<span style='color:#14e701;'> Free </span>to use for personal and commercial use.",
+		"author":"Free html Templates",
+		"authorlink":"https://html.design/",
+		"download": "./data0/ziotech/download/",
+		"live": "./data0/ziotech/live/"
+	}
+]
